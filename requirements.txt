@@ -1,0 +1,6 @@
+gym[box2d]
+numpy
+torch
+matplotlib
+opencv-python
+ipython
